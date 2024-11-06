@@ -1,6 +1,6 @@
 const Transactions = () => {
 return(
-<h1>Transactions page</h1>
+<h1>Hello World</h1>
 )
 }
 
